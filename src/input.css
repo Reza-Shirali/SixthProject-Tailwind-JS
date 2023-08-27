@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-mobile--open {
+  display: block;
+}
+.fa-star{
+  width: 1rem;
+}
